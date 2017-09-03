@@ -7,3 +7,9 @@ biryani stuff
 chicken biryani
 mutton biryani
 prawns biryani
+
+
+pan
+normal pan
+strong pan
+sweet pan
