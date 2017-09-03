@@ -7,6 +7,9 @@ c++
 python
 php
 
+java script
+c#
+
 
 
 
