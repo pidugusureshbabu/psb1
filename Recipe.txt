@@ -10,6 +10,7 @@ prawns biryani
 
 
 
+
 ice cream
 
 butterscotch
@@ -17,4 +18,13 @@ venella
 chocolate
 
 thank u for wonderful dishes
+
+
+thank u for wonderful dishes
+
+pan
+normal pan
+strong pan
+sweet pan
+
 
